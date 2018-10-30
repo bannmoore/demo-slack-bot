@@ -1,0 +1,12 @@
+{
+  "name": "bam-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Brittany <moore.brittanyann@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@slack/client": "^4.8.0"
+  }
+}
