@@ -6,7 +6,12 @@
   "keywords": [],
   "author": "Brittany <moore.brittanyann@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
-    "@slack/client": "^4.8.0"
+    "@slack/client": "^4.8.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
   }
 }
